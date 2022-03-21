@@ -1,0 +1,26 @@
+{
+    "name": "Game.Editor",
+    "references": [
+        "Game",
+        "NavMeshComponents.Editor",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "UnityEditor.UI",
+        "Extenity.Core",
+        "Extenity.UI",
+        "Extenity.UI.Editor",
+        "Extenity.Core.Editor",
+        "Extenity.UnityEditor.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

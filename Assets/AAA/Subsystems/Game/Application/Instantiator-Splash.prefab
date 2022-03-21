@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6064717424156132160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6062311585595227510}
+  - component: {fileID: 301241807291880149}
+  m_Layer: 0
+  m_Name: Instantiator-Splash
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6062311585595227510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6064717424156132160}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &301241807291880149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6064717424156132160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f800f97083f2c4692b84fffe6db01e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Order: 0
+  Parent: {fileID: 0}
+  SubsystemPrefabs:
+  - {fileID: 190014, guid: 7037fc26682a36947b5ceb4c8552532d, type: 3}
+  - {fileID: 4497820572670939238, guid: 8efae1258e82d934cacca78d54874e0d, type: 3}
+  - {fileID: 8490639315652356962, guid: 5fae98056dae5a9449095dde2c123346, type: 3}
+  - {fileID: 725007712864325186, guid: 0b3e70ee854dd464fbdf2362f2aca134, type: 3}
+  VolatilePrefabs: []
+  InstantPrefabs: []

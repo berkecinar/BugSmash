@@ -1,0 +1,26 @@
+{
+    "name": "Game",
+    "references": [
+        "NavMeshComponents",
+        "UnityEditor.UI",
+        "Unity.TextMeshPro",
+        "DOTween.Modules",
+        "Extenity.Core",
+        "Extenity.UI",
+        "MoreMountains.NiceVibrations",
+        "MoreMountains.NiceVibrations.Haptics",
+        "MoreMountains.NiceVibrations.Rumble",
+        "Splatter",
+        "Joystick",
+        "Game.SDK"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

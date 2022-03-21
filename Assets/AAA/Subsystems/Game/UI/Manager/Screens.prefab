@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3853685426601966052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 981937957882674559}
+  - component: {fileID: 3338389694455193866}
+  m_Layer: 0
+  m_Name: Screens
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &981937957882674559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3853685426601966052}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3338389694455193866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3853685426601966052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd761f5d9ab0e0c49ba9facaa24ac67e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnableCreationLogging: 1
+  EnableVisibilityLogging: 1
+  CurrencyDisplay:
+    Prefab: {fileID: 8991797128369513846, guid: ad75f71c9cfc81440a364db195062bb3, type: 3}
+  SettingsScreen:
+    Prefab: {fileID: 0}
+  CheatScreen:
+    Prefab: {fileID: 7678944640284327966, guid: e84cb917337ebbf438d9de0ac510d8c7, type: 3}
+  CheatLauncherScreen:
+    Prefab: {fileID: 1983592853727634910, guid: e88ba39943e643342b48977172e2d629, type: 3}

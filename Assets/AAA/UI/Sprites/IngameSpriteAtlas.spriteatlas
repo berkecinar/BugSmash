@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IngameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 468e2f8dda981524894d16d59de0743c, type: 3}
+    totalSpriteSurfaceArea: 683324
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: df7d38e18caea7a458d92bf7d0727d81, type: 3}
+  - {fileID: 21300000, guid: 1b754822b341def489124fadba5ff9aa, type: 3}
+  - {fileID: 21300000, guid: 9c7ccdb4dd339c848928ad6c83a32c9c, type: 3}
+  - {fileID: 21300000, guid: 06af2b2613b0c9b498a53d38f8cd79cd, type: 3}
+  - {fileID: 21300000, guid: 3165f4ec74bcacc46a3ba1d16f63dbe9, type: 3}
+  - {fileID: 21300000, guid: d8f6daeee4edaef478b3b8ced4a421f8, type: 3}
+  - {fileID: 21300000, guid: 63d09f3f14a317b4f871703046482d3f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SettingsButton
+  - Shine
+  - Key
+  - KeyDark
+  - X
+  - Vignette
+  - Coin
+  m_RenderDataMap: {}
+  m_Tag: IngameSpriteAtlas
+  m_IsVariant: 0
